@@ -174,7 +174,7 @@ p{
     position: absolute;
     top: 43.5%;
     left: 92.9%;}
-    
+
 span{
     font-family: 'Red Hat Text';
     font-style: normal;
@@ -339,6 +339,11 @@ span{
 .hills{
     width: 100%;
     height: 265px;
+    }
+
+    svg{
+
+        fill: pink;
     }
 }
 
