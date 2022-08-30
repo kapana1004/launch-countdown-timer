@@ -7,7 +7,7 @@
 
 const countDown = () =>{
 
-    const endDate =  new Date("Dec 31, 2022 23:59:00").getTime();
+    const endDate =  new Date("Nov 20, 2022 20:00:00").getTime();
     const now =  new Date().getTime();
     
     const difference = endDate - now;
