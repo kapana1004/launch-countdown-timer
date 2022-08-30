@@ -220,6 +220,17 @@ span{
 .pinterest{
     margin-right: 32px;
 }
+svg:hover path{
+    fill: rgba(251, 94, 132, 1);
+
+
+}
+.fbIcon{
+    margin-right: 32px;
+}
+.pintIcon{
+    margin-right: 32px;
+}
 
 @media (min-width: 1440px){
 
@@ -341,9 +352,10 @@ span{
     height: 265px;
     }
 
-    svg{
+ 
 
-        fill: pink;
-    }
+  
+
+  
 }
 
