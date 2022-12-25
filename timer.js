@@ -4,7 +4,7 @@ const minuteOutput = document.querySelector(".pMinutes");
 const secondOutput = document.querySelector(".pSeconds");
 
 const countDown = () => {
-  const endDate = new Date("Mar 1, 2023npm run 20:00:00").getTime();
+  const endDate = new Date("Mar 1, 2023 20:00:00").getTime();
   const now = new Date().getTime();
 
   const difference = endDate - now;
