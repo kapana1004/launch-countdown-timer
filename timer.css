@@ -26,7 +26,7 @@ body{
 }
 .last{
 
-    /* background-image: url(./images/pattern-hills.svg); */
+    background-image: url(./images/pattern-hills.svg);
     min-width: 100%;
     /* height: 200px;
     position: absolute;
